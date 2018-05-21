@@ -1,0 +1,8 @@
+/target/
+/.settings/
+/META-INFO/
+/.externalToolBuilders/
+/.classpath
+/.project
+/home/
+/.mvn/
