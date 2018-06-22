@@ -5,6 +5,11 @@ import org.springframework.context.annotation.PropertySource;
 import org.springframework.core.env.Environment;
 import org.springframework.stereotype.Component;
 
+/**
+ * @author Venkataraghavan Yanamandram Ramasubbu
+ *
+ */
+
 @Component
 @PropertySource(value={"classpath:cassandra.properties"})
 public class CassandraConnection {
